@@ -1,5 +1,7 @@
 # IPL-Team-Selection-Genetic_Algorithm
 Applying GA to IPL Team Selection using NSGA-II Algorithm
+
+
 Credits:
 [1]     Kalyanmoy Deb, Amrit Pratap, Sameer Agarwal, and T. Meyarivan (2002). A Fast and Elitist Multi-objective Genetic Algorithm: NSGA-         II. IEEE Transactions on Evolutionary Computation, vol. 6, no. 2, April 2002.
 
